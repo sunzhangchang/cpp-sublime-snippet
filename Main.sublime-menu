@@ -24,7 +24,7 @@
                             },
                             {
                                 "command": "open_url",
-                                "args": { "url": "https://github.com/Rapptz/cpp-sublime-snippet/blob/master/reference.md" },
+                                "args": { "url": "https://github.com/sunzhangchang/cpp-sublime-snippet/blob/master/reference.md" },
                                 "caption": "View Documentation (Online)"
                             },
                             {
